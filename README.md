@@ -42,8 +42,8 @@ In-depth competitive landscape analysis across CEE markets, Schoenherr's market 
 legal-market-report/
 ├── index.html                      # Main entry point
 ├── assets/
-│   ├── index-C-u6RIat.js          # Application JavaScript
-│   └── index-qRSPMhu4.css         # Styling
+│   ├── index-BcheCFtz.js          # Application JavaScript
+│   └── index-DIM2atrA.css         # Styling
 ├── robots.txt                      # SEO configuration
 └── README.md                       # This file
 ```
