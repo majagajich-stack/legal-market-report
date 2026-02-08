@@ -21,14 +21,13 @@ Comprehensive hourly rate benchmarks across CEE and European markets, AI's impac
 - Interactive Rate Comparison Tool
 
 ### Part B: CEE Legal Market Intelligence
-In-depth competitive landscape analysis across CEE markets, Schoenherr's market positioning and reputation study, interactive competitive dashboard with jurisdiction-specific insights, and practice area filtering and geographic distribution insights.
+In-depth competitive landscape analysis across CEE markets, Schoenherr's market positioning and reputation study, interactive competitive dashboard with jurisdiction-specific insights, and practice area filtering.
 
 **Key Features:**
 - CEE Competitive Landscape Analysis
 - Schoenherr Market Position & Reputation Study
 - Interactive Competitive Dashboard
 - Practice Area & Jurisdiction Filtering
-- Geographic Distribution Mapping
 
 ## 🛠️ Technology Stack
 
